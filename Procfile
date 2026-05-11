@@ -1,1 +1,1 @@
-python fournix_bot.py 
+worker: python fournix_bot.py
